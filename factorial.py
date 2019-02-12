@@ -1,5 +1,5 @@
 n=int(input())
-f=1
-for i in range(1,n+1):
-    f=f*i
-print(f)
+fac=1
+for c in range(1,n+1):
+    fac=fac*c
+print(fac)
